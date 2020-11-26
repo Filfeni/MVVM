@@ -30,7 +30,7 @@
  
  <br/>
  
- ### "Home" page
+ ### New "Home" page
  
  <br/>
  
