@@ -8,7 +8,7 @@
         <pages:HomeMaster x:Name="MasterPage" />
     </MasterDetailPage.Master>
     <MasterDetailPage.Detail>
-        <NavigationPage BarBackgroundColor="#d90812">
+        <NavigationPage BarBackgroundColor="#f9cb51">
             <x:Arguments>
                 <pages:HomeDetail />
             </x:Arguments>
